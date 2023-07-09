@@ -1,0 +1,120 @@
+.nav-item {
+    padding-right: 30px;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+
+.dropdown {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.dropdown-item {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(179, 160, 160);
+}
+
+.navbar-brand {
+    padding-right: 40px;
+    padding-left: 20px;
+}
+
+#side-navbar {
+    width: 200px;
+    background-color: rgb(197, 197, 197);
+    height: 100;
+    position: absolute;
+    top: 96px;
+    left: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#side-navbar a {
+    display: block;
+    padding: 17px;
+    text-decoration: none;
+    color: #000;
+}
+
+#side-navbar a:hover {
+    background-color: #631414;
+}
+
+#content {
+    margin-left: 200px;
+    padding: 20px;
+}
+
+#contentd {
+    margin-left: 20px;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+}
+
+footer {
+    background-color: #b85757;
+}
+
+#footer {
+    display: inline-flex;
+    align-content: center;
+}
+
+#quote {
+    height: 152px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 70% 70%;
+    margin: 0 -15px 20px;
+}
+
+#cprt1 {
+    padding-top: 2%;
+    color: lightblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#cprt2 {
+    padding-top: 4px;
+    color: lightblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.fa:hover {
+    opacity: 100;
+    color: blue;
+}
+
+.fa-facebook {
+    color: blanchedalmond;
+}
+
+.fa-twitter {
+    color: blanchedalmond;
+}
+
+.fa-instagram {
+    color: blanchedalmond;
+}
+
+.fa-youtube {
+    color: blanchedalmond;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 40px;
+    width: 60px;
+    text-decoration: none;
+    margin: 5px 80px;
+}
+
+#edmsg {
+    color: lightblue;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
